@@ -88,3 +88,9 @@ defaults:
     values:
       layout: post
       read_time: true
+        # - scope:
+  #     path: "_learning"
+  #     type: learning
+  #     values:
+  #       layout: post
+  #       read_time: true
