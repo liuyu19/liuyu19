@@ -12,12 +12,12 @@ tags:
 
 	<head>
 		<style>
-			svg{
+			.book{
         width: 150px;
         height: 150px;
         -webkit-transition: width 1s, height 1s, -webkit-transform 1s;
         transition: width 1s, height 1s, transform 1s;}
-        book:hover {
+        svg:hover {
         width: 300px;
         height: 300px;
         color: bule;
