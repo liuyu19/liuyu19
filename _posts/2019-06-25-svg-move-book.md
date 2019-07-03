@@ -1,18 +1,19 @@
 ---
-title: SVG之可移动的转动的书
+title: SVG之酒杯
 excerpt_separator: "<!--more-->"
 categories: 
   - SVG制作
 tags:
   - SVG
 ---
-### 可以动的书
+### 可以动的酒杯
 <!--more-->
 <section class="page__content" itemprop="text">
 
+
 	<head>
 		<style>
-			.book{
+			svg{
         width: 150px;
         height: 150px;
         -webkit-transition: width 1s, height 1s, -webkit-transform 1s;
@@ -23,20 +24,17 @@ tags:
         color: bule;
         -webkit-transform: rotate(180deg);
         transform: rotate(180deg);}
-       @keyframes rotate {100% { transform: rotate(360deg) scale(0.8);}}
-	.book{
+     @keyframes rotate {100% { transform: rotate(360deg) scale(0.8);}}
+	.wineglass{
 		position:relative;  
-     animation:rotate 3s infinite;  
-     animation-timing-function:linear;  
-     -webkit-animationh:rotate 3s infinite;  
-    /*Safari and Chorme*/  	
-	}
-
-    </style>
+        animation:rotate 3s infinite;  
+        animation-timing-function:linear;  
+        -webkit-animationh:rotate 3s infinite;  
+        /*Safari and Chorme*/  	}
+     </style>
 		<meta charset="UTF-8">
 		<title></title>
 	</head>
 	<body>
-		<svg class="book" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="book-medical" class="svg-inline--fa fa-book-medical fa-w-14" role="img" viewBox="0 0 448 512"><path fill="currentColor" d="M448 358.4V25.6c0-16-9.6-25.6-25.6-25.6H96C41.6 0 0 41.6 0 96v320c0 54.4 41.6 96 96 96h326.4c12.8 0 25.6-9.6 25.6-25.6v-16q0-9.6-9.6-19.2c-3.2-16-3.2-60.8 0-73.6q9.6-4.8 9.6-19.2zM144 168a8 8 0 0 1 8-8h56v-56a8 8 0 0 1 8-8h48a8 8 0 0 1 8 8v56h56a8 8 0 0 1 8 8v48a8 8 0 0 1-8 8h-56v56a8 8 0 0 1-8 8h-48a8 8 0 0 1-8-8v-56h-56a8 8 0 0 1-8-8zm236.8 280H96c-19.2 0-32-12.8-32-32s16-32 32-32h284.8z"/></svg>
-	
+		<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="wine-glass-alt" class="wineglass" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 288 512"><path fill="currentColor" d="M216 464h-40V346.81c68.47-15.89 118.05-79.91 111.4-154.16l-15.95-178.1C270.71 6.31 263.9 0 255.74 0H32.26c-8.15 0-14.97 6.31-15.7 14.55L.6 192.66C-6.05 266.91 43.53 330.93 112 346.82V464H72c-22.09 0-40 17.91-40 40 0 4.42 3.58 8 8 8h208c4.42 0 8-3.58 8-8 0-22.09-17.91-40-40-40zM61.75 48h164.5l7.17 80H54.58l7.17-80z"></path></svg>
 	</body>
