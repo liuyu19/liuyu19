@@ -6,6 +6,10 @@ categories:
 tags:
   - SVG
 ---
+###可以动的书
+<!--more-->
+<section class="page__content" itemprop="text">
+
 	<head>
 		<style>
 			@keyframes rotate {100% { transform: rotate(360deg) scale(0.8);}
