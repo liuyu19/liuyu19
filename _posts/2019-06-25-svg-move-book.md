@@ -18,9 +18,10 @@ tags:
         height: 150px;
         -webkit-transition: width 1s, height 1s, -webkit-transform 1s;
         transition: width 1s, height 1s, transform 1s;}
-        wineglass:hover {
+        svg:hover {
         width: 300px;
         height: 300px;
+        color: bule;
         -webkit-transform: rotate(180deg);
         transform: rotate(180deg);}
      @keyframes rotate {100% { transform: rotate(360deg) scale(0.8);}}
