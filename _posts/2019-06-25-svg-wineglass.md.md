@@ -15,13 +15,13 @@ tags:
 		<style>
      <div>
 			svg{
-        width: 150px;
-        height: 150px;
+        width: 75px;
+        height: 75px;
         -webkit-transition: width 1s, height 1s, -webkit-transform 1s;
         transition: width 1s, height 1s, transform 1s;}
         svg:hover {
-        width: 300px;
-        height: 300px;
+        width: 200px;
+        height: 200px;
         color: bule;
         -webkit-transform: rotate(180deg);
         transform: rotate(180deg);}
