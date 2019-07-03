@@ -13,6 +13,7 @@ tags:
 
 	<head>
 		<style>
+     <div>
 			svg{
         width: 150px;
         height: 150px;
@@ -31,6 +32,7 @@ tags:
         animation-timing-function:linear;  
         -webkit-animationh:rotate 3s infinite;  
         /*Safari and Chorme*/  	}
+    </div>
      </style>
 		<meta charset="UTF-8">
 		<title></title>
