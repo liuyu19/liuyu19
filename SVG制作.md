@@ -1,9 +1,9 @@
 ---
 title: SVG制作
-layout: category
-permalink: /tags/SVG制作/
-taxonomy: SVG制作
-image: assets/images/banner.jpg
+layout: tags
+permalink: /tag/SVG制作/
+taxonomy: svg制作
+image: assets/images/banner/svg.jpg
 ---
 
 分类《SVG制作》下的文章：
