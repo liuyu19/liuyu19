@@ -33,5 +33,5 @@ tags:
                 repeatCount="indefinite"
         />
     </circle>
-    </svg></span>
+    </svg>
     </body>
