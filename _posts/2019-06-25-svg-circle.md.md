@@ -13,9 +13,6 @@ tags:
 
     <head><div>
 	<style type="text/css"> svg {
-    class: circle;
-    width: 400px;
-    height: 400px;
      -webkit-transition: -webkit-transform 1s, width 1.5s, height 2s;
     transition: width 3s, height 1.8s, transform 2.5s;}svg:hover {
     width:400px;
