@@ -11,8 +11,8 @@ tags:
 <!--more-->
 <section class="page__content" itemprop="text">
 
-    <head>
-	<style type="text/css"><div> svg {
+    <head><div>
+	<style type="text/css"> svg {
     width: 400px;
     height: 400px;
      -webkit-transition: -webkit-transform 1s, width 1.5s, height 2s;
@@ -20,9 +20,9 @@ tags:
     width:400px;
     height:400px;
      -webkit-transform: rotateX(1600deg);
-    transform: rotateY(1600deg);}</div></style>
+    transform: rotateY(1600deg);}</style></div>
     </head>
-    <body><div>
+    <body>
     <svg width="400" height="400">
     <circle cx="200" cy="200" r="50" style="fill:#ff6600" >
         <animate
@@ -35,5 +35,5 @@ tags:
                 repeatCount="indefinite"
         />
     </circle>
-    </svg></div>
+    </svg></span>
     </body>
