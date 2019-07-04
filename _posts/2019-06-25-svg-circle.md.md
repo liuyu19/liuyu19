@@ -16,7 +16,7 @@ tags:
     width: 400px;
     height: 400px;
      -webkit-transition: -webkit-transform 1s, width 1.5s, height 2s;
-    transition: width 3s, height 1.8s, transform 2.5s;}svg:hover {
+    transition: width 3s, height 1.8s, transform 2.5s;}</div><div>svg:hover {
     width:400px;
     height:400px;
      -webkit-transform: rotateX(1600deg);
