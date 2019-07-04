@@ -1,9 +1,12 @@
 ---
 layout: page
 title: 国际发展与信息可视化，你了解多少？
+excerpt_separator: "<!--more-->"
 categories:
      - 课堂笔记
 ---
+此篇文章为大家展示国际信息可视化诠释社会的发展并改变国际援助。
+<!--more-->
 # 国际发展与信息可视化：拆或合
 ### TED TALK[汉斯罗斯林：用前所未有的好方法诠释数字统计](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen/transcript?&language=zh-cn#t-405000)提到:
 依据数据来看，我们会低估亚洲发展，而且这些变化是超前于经济发展的社会变革。还有一个很重要的点就是我们总觉得贫富差距很大，甚至马太效应说过，
