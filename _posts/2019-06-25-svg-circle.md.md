@@ -19,10 +19,10 @@ tags:
     transition: width 3s, height 1.8s, transform 2.5s;}svg:hover {
     width:400px;
     height:400px;
-    -webkit-transform: rotateX(1600deg);
+     -webkit-transform: rotateX(1600deg);
     transform: rotateY(1600deg);}</div></style>
     </head>
-    <body>
+    <body><div>
     <svg width="400" height="400">
     <circle cx="200" cy="200" r="50" style="fill:#ff6600" >
         <animate
@@ -35,5 +35,5 @@ tags:
                 repeatCount="indefinite"
         />
     </circle>
-    </svg>
+    </svg></div>
     </body>
