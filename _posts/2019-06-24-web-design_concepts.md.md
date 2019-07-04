@@ -1,10 +1,12 @@
 ---
 layout: page
 title: 响应式网页设计概述
+excerpt_separator: "<!--more-->"
 categories:
      - 网站设计
 ---
-
+“响应式Web设计”这个名字是Ethan Marcotte在2010年发明的。
+<!--more-->
 # 响应式Web设计
   
 **“响应式Web设计”**这个名字是Ethan Marcotte在2010年发明的。当时，他在A List Apart上写

@@ -3,7 +3,10 @@ layout: page
 title: 关于成瘾，你了解多少？
 categories:
      - 课堂笔记
+excerpt_separator: "<!--more-->"
 ---
+今天我们来谈谈成瘾。
+<!--more-->
 # 谈谈成瘾
   
 今天我们来谈谈成瘾。

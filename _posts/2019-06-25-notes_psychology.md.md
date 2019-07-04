@@ -3,7 +3,10 @@ layout: page
 title: 关于心理学，你了解多少？
 categories:
      - 课堂笔记
+excerpt_separator: "<!--more-->"
 ---
+谈谈积极心理学和幸福快乐的秘诀。
+<!--more-->
 ### TED TALK[马丁•赛利格曼：谈论积极心理学The new era of positive psychology](https://www.ted.com/talks/martin_seligman_on_the_state_of_psychology/transcript?&language=zh-cn)提到:
 1.心理学经过六十多种年发展，可以治疗14种情绪失调，其中2种还可以治愈。心理学和精神病学研究真的可以为痛苦的人减少痛苦。    
 2.上述的疾病模型也带来了三个坏处：（1）我们忽略了人的主观能动性。（2）忽略了让普通人更快乐。（3）忽略了疾病预防和干预措施。  
