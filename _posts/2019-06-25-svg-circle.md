@@ -12,14 +12,14 @@ tags:
 <section class="page__content" itemprop="text">
 
     <head>
-		<style type="text/css"><div> svg{
+	<style type="text/css"> svg {
     width: 400px;
     height: 400px;
      -webkit-transition: -webkit-transform 1s, width 1.5s, height 2s;
     transition: width 3s, height 1.8s, transform 2.5s;}svg:hover {
     width:400px;
     height:400px;
-     -webkit-transform: rotateX(1600deg);
+    -webkit-transform: rotateX(1600deg);
     transform: rotateY(1600deg);}</div></style>
     </head>
     <body>
@@ -35,12 +35,5 @@ tags:
                 repeatCount="indefinite"
         />
     </circle>
-     </svg>
-     <div style="width: 0px; height: 0px; overflow: hidden">
-     </div>
+    </svg>
     </body>
-    <div style="width: 0px; height: 0px; overflow: hidden">
-    <iframe src="https://isux.tencent.com/articles/isux-table-border.html" frameborder="0"></iframe>
-    <iframe src="https://isux.tencent.com/articles/web-image-application.html" frameborder="0"></iframe>
-    </div></body>
-
