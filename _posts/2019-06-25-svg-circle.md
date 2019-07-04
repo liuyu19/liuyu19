@@ -19,9 +19,8 @@ tags:
     transition: width 3s, height 1.8s, transform 2.5s;}svg:hover {
     width:400px;
     height:400px;
-    -webkit-transform: rotateX(1600deg);
-    transform: rotateY(1600deg);
-    color:blue;}</div></style>
+     -webkit-transform: rotateX(1600deg);
+    transform: rotateY(1600deg);}</div></style>
     </head>
     <body>
     <svg width="400" height="400">
@@ -43,6 +42,5 @@ tags:
     <div style="width: 0px; height: 0px; overflow: hidden">
     <iframe src="https://isux.tencent.com/articles/isux-table-border.html" frameborder="0"></iframe>
     <iframe src="https://isux.tencent.com/articles/web-image-application.html" frameborder="0"></iframe>
-    </div>
-    </body>
+    </div></body>
 
