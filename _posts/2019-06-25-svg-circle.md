@@ -12,7 +12,7 @@ tags:
 <section class="page__content" itemprop="text">
 
     <head>
-	<style type="text/css"> svg {
+	<style type="text/css"><div> svg {
     width: 400px;
     height: 400px;
      -webkit-transition: -webkit-transform 1s, width 1.5s, height 2s;
